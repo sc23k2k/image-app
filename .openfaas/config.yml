@@ -1,0 +1,4 @@
+auths:
+  - gateway: http://20.90.162.163:8080
+    auth: basic
+    token: YWRtaW46bllPWDE5YWpibXhkZ2NVWnl3T3dnRFk5OVlGblBRQWI4S2dMRWlGT25qWjVESzcxUHU3SWNCakliRDJIaFNS

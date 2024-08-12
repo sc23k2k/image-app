@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://20.90.162.163:8080
+
+functions:
+  image-processor:
+    lang: python3
+    handler: ./image-processor
+    image: keshawkk/image-processor:latest
+

@@ -1,0 +1,17 @@
+{
+	"ulid": "01J4P1285WEGR7YJMCFRHE7155",
+	"minTime": 1723010405139,
+	"maxTime": 1723017600000,
+	"stats": {
+		"numSamples": 584952,
+		"numSeries": 1241,
+		"numChunks": 4892
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01J4P1285WEGR7YJMCFRHE7155"
+		]
+	},
+	"version": 1
+}
